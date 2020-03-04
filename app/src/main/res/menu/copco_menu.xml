@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+       android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/home"
+            />
+
+        <item
+            android:id="@+id/plating"
+            android:title="Platting"
+            android:icon="@drawable/platting"
+            />
+
+        <item
+            android:id="@+id/production"
+            android:title="Production"
+            android:icon="@drawable/production"
+            />
+
+        <item
+            android:id="@+id/rawmaterial"
+            android:title="Raw Materials"
+            android:icon="@drawable/raw"
+            />
+    </group>
+
+         <item android:title="controls">
+
+             <menu>
+                 <group>
+                     <item
+                         android:id="@+id/settings"
+                         android:title="Setting"
+                         android:icon="@drawable/settings"
+                         />
+
+                     <item
+                         android:id="@+id/logout"
+                         android:title="Logout"
+                         android:icon="@drawable/logout"
+                         />
+                 </group>
+
+             </menu>
+
+         </item>
+
+</menu>

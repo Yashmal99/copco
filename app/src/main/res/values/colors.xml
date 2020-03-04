@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3B8A7A</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="copco">#BDBDBD</color>
+    <color name="copco1">#030355</color>
+    <color name="copco2">#FFFFFF</color>
+</resources>

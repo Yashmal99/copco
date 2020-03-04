@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="192dp"
+    android:gravity="left"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:paddingTop="25dp"
+        android:paddingLeft="20dp"
+        android:src="@drawable/copco"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Copco Mould And Dies"
+        android:paddingTop="20dp"
+        android:fontFamily="@font/limelight"/>
+
+</LinearLayout>
